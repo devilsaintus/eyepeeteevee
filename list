@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 tvg-country="HK" tvg-logo="https://www.easyatm.com.tw/img/7/400/nBnauM3X3YjM5gDM2gTN1QDM1UTM1QDN5MjM5ADMwAjMwUzL4UzL0EzLt92YucmbvRWdo5Cd0FmLzE2LvoDc0RHa.jpg" group-title="Undefined",TVB 翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-j2.jpg" group-title="Undefined",J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="Undefined",香港開電視
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel [V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK;TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News;Undefined",FTV News,民视新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="Undefined",RTHK (港台電視32)
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;HK" tvg-logo="https://i.imgur.com/fmzC0MN.png" group-title="Undefined;CHINA",RTHK TV 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;HK" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="Undefined",新唐人亚太,新唐人亚太臺
+https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="General",星空衛視
+rtmp://58.200.131.2:1935/livetv/startv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="News",港台電視32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="Undefined",澳视葡文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="Undefined",翡翠台（81）
+http://61.238.6.49:8000/bysid/1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="Undefined",翡翠台（81）
+https://cdn.hkdtmb.com/hls/81/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",香港开电视 / HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General;Undefined",香港开电视 / HKSTV-HKS,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="Undefined",鳳凰衛視電影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Undefined",Discovery Channel
+https://list.iptvcat.com/my_list/s/2607910268cb6b0513a9754c6be67696.m3u8
